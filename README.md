@@ -4,7 +4,7 @@
 int main()
 {
 int a[10],b[10],i,j,n,m,rel;
-clescr();
+clrscr();
 printf("enter the limt for domain a\n");
 scanf("%d",&n);
 printf("enter the values of domian a\n");
